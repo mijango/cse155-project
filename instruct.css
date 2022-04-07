@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(5, 85, 112);
+  }
+
+
+  h1{  
+    position: absolute;
+width: 691px;
+height: 186px;
+left: 424px;
+top: 45px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 107px;
+
+color: #000000;
+
+}
+
+
+
+
+button[type = next]{ 
+  position: absolute;
+  width: 163px;
+  height: 73px;
+  left: 625px;
+  top: 901px;
+  
+}
