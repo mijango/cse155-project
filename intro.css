@@ -47,9 +47,6 @@ color: #000000;
    
 }
 
-
-
-
 h2[type = p1]{ 
   position: absolute;
 width: 362px;
@@ -77,7 +74,6 @@ button[type = one]{
   
   background: #C4C4C4;
 }
-
 
 h2[type = p2]{ 
   position: absolute;
@@ -107,7 +103,6 @@ top: 295px;
 background: #C4C4C4;
 }
 
-
 h2[type = p3]{ 
   position: absolute;
 width: 362px;
@@ -134,7 +129,6 @@ top: 295px;
 
 background: #C4C4C4;
 }
-
 
 button[type = four]{ 
   position: absolute;
